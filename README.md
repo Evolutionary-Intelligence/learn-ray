@@ -3,7 +3,7 @@
 ## Get the total number of available cluster nodes
 
 ```Python
-len(ray.nodes()
+len(ray.nodes())
 ```
 
 ## Get the total number of available CPU cores
